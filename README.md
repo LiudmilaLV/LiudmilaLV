@@ -5,8 +5,8 @@ And now I'm looking forward to learn more complex modern technologies for my fut
 
 Skills: PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on deploying my app: Docker, GitHub and Linux server configuration. 
-- 🌱 I’m currently learning JavaScript  -->  ES6+  -->  React. 
+- 🔭 I’m currently working on a simple Telegram-bot. 
+- 🌱 I’m currently learning more Python. 
 - ⚡ Fun fact: I also like to learn languages (I mean natural ones) 
 
 
