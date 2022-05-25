@@ -1,13 +1,12 @@
 ### Hi! My name is Mila.
 #### I am an aspiring full-stack developer.
-I made my first web-app using Python Flask and Bootstrap. 
-And now I'm looking forward to learn more complex modern technologies for my future projects.
 
 Skills: PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on a simple Telegram-bot. 
-- 🌱 I’m currently learning more Python. 
-- ⚡ Fun fact: I also like to learn languages (I mean natural ones) 
+- 🔭 I built my first web-app using Python Flask + Bootstrap and also a simple Telegram-bot. 
+- 🌱 I’m currently learning more Python with CS50 Harvard course.
+- 😊 I'm looking forward to learn more technologies for my future projects.
+- ⚡ Fun fact: I also enjoy learning languages (I mean natural ones) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LiudmilaLV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/youyisiya/)  
