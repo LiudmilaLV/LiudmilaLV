@@ -4,8 +4,8 @@
 Skills: PYTHON / JS / HTML / CSS
 
 - 🔭 I built my first web-app using Python Flask + Bootstrap and also a simple Telegram-bot. 
-- 🌱 I’m currently learning more front-end and JS with The Odin Project. Revising Flexbox: [** Recipe Page** ](https://liudmilalv.github.io/odin-recipes/)
-- 😊 I'm looking forward to learn more technologies for my future projects.
+- 🌱 I’m currently learning more JavaScript following The Odin Project curriculum.
+- 😊 I'm looking forward to learn more technologies and building cool projects.
 - ⚡ Fun fact: I also enjoy learning languages (I mean natural ones). 
 
 
